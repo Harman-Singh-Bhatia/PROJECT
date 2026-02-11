@@ -1,0 +1,31 @@
+.sidebar {
+    width: 250px;
+    background-color: #1f1c18;
+    padding: 20px;
+    height: 100vh;
+    border-right: 2px solid #3a342c;
+  }
+  
+  .logo {
+    font-size: 28px;
+    color: #c05621;
+    margin-bottom: 20px;
+  }
+  
+  .nav-link {
+    display: block;
+    margin: 15px 0;
+    text-decoration: none;
+    color: #e6d3b3;
+    transition: 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #c05621;
+    transform: translateX(5px);
+  }
+  
+  .content {
+    padding: 40px;
+  }
+  
